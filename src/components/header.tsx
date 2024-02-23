@@ -36,7 +36,7 @@ export function Header() {
             alt=""
           />
 
-          <span className="text-sm font-medium text-zinc-100">Rocketseat</span>
+          <span className="text-sm font-medium text-zinc-100">Internet Conection</span>
 
           <Badge variant="primary">PRO</Badge>
 

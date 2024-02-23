@@ -36,7 +36,7 @@ export function Header() {
             alt=""
           />
 
-          <span className="text-sm font-medium text-zinc-100">Internet Conection</span>
+          <span className="text-sm font-medium text-zinc-100">Networking Center</span>
 
           <Badge variant="primary">PRO</Badge>
 
@@ -68,7 +68,7 @@ export function Header() {
 
       <div className="flex items-center gap-3">
         <div className="flex flex-col items-end gap-0.5">
-          <span className="text-sm font-medium">Diego Fernandes</span>
+          <span className="text-sm font-medium">Pedro Henrique</span>
           <span className="text-xs text-zinc-400">diego@nivo.video</span>
         </div>
         <img
